@@ -56,25 +56,31 @@ The analysis sections include ->
 ## Glance At The Hosted Application- 
 
 ### 1. Power Hiters
-![Screenshot 2023-07-15 224525](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/c4c269eb-378f-4982-88b4-d10144f0a9d6)
+
+![253757043-c4c269eb-378f-4982-88b4-d10144f0a9d6_4](https://github.com/user-attachments/assets/a95735a7-109d-4250-ad12-9e752d183f33)
 
 ### 2. Anchors/Middle Order
-![Screenshot 2023-07-15 224607](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/b7585e8c-4987-4a2c-9f21-0ab0cf64fbe0)
+
+![253757171-b7585e8c-4987-4a2c-9f21-0ab0cf64fbe0_5](https://github.com/user-attachments/assets/7d52ba86-0160-44f1-8d70-7f65faa1e3af)
 
 ### 3. Finisher/Lower Order Anchor
-![Screenshot 2023-07-15 224639](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/d1c9c3f8-8e98-4eda-88d3-92d4c8ffbea9)
+
+![253757244-d1c9c3f8-8e98-4eda-88d3-92d4c8ffbea9_6](https://github.com/user-attachments/assets/742e5904-3b28-4a68-bd45-45a98100ce49)
 
 
 ### 4. All Rounder/Middle Order Anchor
 
-![Screenshot 2023-07-15 224742](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/286f4b89-87b3-440f-9b11-887a898ff8a8)
+
+![253757244-d1c9c3f8-8e98-4eda-88d3-92d4c8ffbea9_6](https://github.com/user-attachments/assets/4b9bca57-90e3-4201-9bc6-3d74f8ef0c0e)
 
 
 ### 5. Specialist Fast Bowler/Tail End
-![Screenshot 2023-07-15 224810](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/6a251e19-bd6d-4a08-96e1-c658d819ff5a)
 
+
+![253757305-6a251e19-bd6d-4a08-96e1-c658d819ff5a_8](https://github.com/user-attachments/assets/5a8fb196-5e54-4ca8-a0e7-171329f02236)
 
 ### 6.Final 11 Team
-![Screenshot 2023-07-15 224830](https://github.com/Abhilokhande1603/T20-Cricket-Analysis2022/assets/94048021/1957be63-3b3b-435f-9ade-2a0bfb2acc52)
+![253757329-1957be63-3b3b-435f-9ade-2a0bfb2acc52_9](https://github.com/user-attachments/assets/40cf5337-5a25-4ccf-93f8-45121ce703b7)
+
 
 
